@@ -9,5 +9,5 @@ apktool
 https://gerbenjavado.com/recon-android-apps-to-widen-scope/
 dex2jar 
 
-
+admin
 
